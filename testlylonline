@@ -1,0 +1,28 @@
+{
+    "name":"testlyl",
+    "logoURI":"https://coin.top/production/logo/usdj.png",
+    "timestamp":1610520952450,
+    "tokens":[
+        {
+            "chainId":1,
+            "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "name":"WBTT",
+            "symbol":"WBTT",
+            "decimals":6,
+            "logoURI":"https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+        },
+        {
+            "chainId":1,
+            "address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "name":"WTRX",
+            "symbol":"WTRX",
+            "decimals":6,
+            "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
+        }
+    ],
+    "version":{
+        "major":1,
+        "minor":0,
+        "patch":0
+    }
+}
