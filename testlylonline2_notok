@@ -15,7 +15,7 @@
             "chainId":5,
             "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "name":"WTRX",
-            "symbol":"WTRX",
+            "symbol":"W TRX",
             "decimals":16,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         }
@@ -23,6 +23,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":0
+        "patch":1
     }
 }
