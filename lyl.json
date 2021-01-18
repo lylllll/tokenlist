@@ -32,7 +32,7 @@
             "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
             "name":"JST",
             "symbol":"JST",
-            "decimals":0,
+            "decimals":8,
             "logoURI":"https://coin.top/production/logo/just_icon.png"
         }
     ],
