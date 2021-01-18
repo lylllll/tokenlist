@@ -13,7 +13,7 @@
         },
         {
             "chainId":1,
-            "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
             "name":"WTRX",
             "symbol":"WTRX",
             "decimals":6,
@@ -23,6 +23,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":1
+        "patch":2
     }
 }
