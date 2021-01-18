@@ -28,10 +28,10 @@
              "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
-            "chainId":13,
+            "chainId":1,
             "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
             "name":"JST",
-            "symbol":"JST",
+            "symbol":"JS T",
             "decimals":18,
             "logoURI":"https://coin.top/production/logo/just_icon.png"
         }
