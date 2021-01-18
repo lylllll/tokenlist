@@ -12,17 +12,17 @@
             "logoURI":"https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
         {
-            "chainId":1,
+            "chainId":5,
             "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "name":"WTRX",
-            "symbol":"WT RX",
-            "decimals":6,
+            "symbol":"WTRX",
+            "decimals":16,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         }
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":5
+        "patch":0
     }
 }
