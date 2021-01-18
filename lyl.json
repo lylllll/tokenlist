@@ -28,8 +28,8 @@
              "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
-            "chainId":1,
-            "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
+            "chainId":13,
+            "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
             "name":"JST",
             "symbol":"JST",
             "decimals":18,
