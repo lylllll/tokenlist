@@ -7,7 +7,7 @@
             "chainId":1,
             "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
             "name":"WBTT",
-            "symbol":"WB TT",
+            "symbol":"WBTT",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
         },
@@ -23,6 +23,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":4
+        "patch":0
     }
 }
