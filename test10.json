@@ -11,14 +11,6 @@
       "decimals":6,
       "logoURI":"https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
     },
-     {
-      "chainId":1,
-      "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
-      "name":"TronixTest",
-      "symbol":"TronixTest",
-      "decimals":6,
-      "logoURI":"https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
-    },
     
     {
       "chainId":1,
@@ -32,6 +24,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":4
+    "patch":5
   }
 }
