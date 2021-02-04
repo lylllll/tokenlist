@@ -803,12 +803,20 @@
       "symbol":"TronToken990",
       "decimals":8,
       "logoURI":"https://coin.top/production/logo/usdj.png"
+    },
+    {
+      "chainId":4,
+      "address":"TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
+      "name":"TronToken99",
+      "symbol":"TronToken990",
+      "decimals":8,
+      "logoURI":"https://coin.top/production/logo/usdj.png"
     }
   
   ],
   "version":{
     "major":1,
     "minor":0,
-    "patch":8
+    "patch":9
   }
 }
