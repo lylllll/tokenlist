@@ -555,19 +555,12 @@
       "symbol":"TronToken98",
       "decimals":6,
       "logoURI":"https://coin.top/production/logo/usdj.png"
-    },
-    {
-      "chainId":1,
-      "address":"TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
-      "name":"TronToken99",
-      "symbol":"TronToken99",
-      "decimals":8,
-      "logoURI":"https://coin.top/production/logo/usdj.png"
     }
+   
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":12
+        "patch":13
     }
 }
