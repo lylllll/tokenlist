@@ -27,14 +27,7 @@
              "decimals":18,
              "logoURI":"https://coin.top/production/logo/just_icon.png"
         },
-         {
-      "chainId":1,
-      "address":"TTzo9DoLCteeLAqtKNZJpcyD1oXUxFmrnF",
-      "name":"TronToken0",
-      "symbol":"TronToken0",
-      "decimals":6,
-      "logoURI":"https://coin.top/production/logo/usdj.png"
-    },
+        
         {
       "chainId":1,
       "address":"TTzo9DoLCteeLAqtKNZJpcyD1oXUxFmrnF",
@@ -327,6 +320,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":10
+        "patch":11
     }
 }
