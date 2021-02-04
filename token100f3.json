@@ -1,6 +1,6 @@
 {
   "name":"token100Diff3",
-  "logoURI":"https://coin.top/production/logo/usdj.png",
+  "logoURI":"http://coin.top/production/logo/usdj.png",
   "timestamp":1610520952450,
   "tokens":[
     {
@@ -808,6 +808,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":0
+    "patch":1
   }
 }
