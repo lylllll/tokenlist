@@ -20,12 +20,20 @@
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
+              "chainId":1,
+              "address":"TJiBRdQfsjCLdEJcib3aUtGB4nNfHSMuoC",
+              "name":"TronToken2",
+              "symbol":"aronToken2",
+              "decimals":6,
+              "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
              "chainId":5,
              "address":"TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
              "name":"LOVEME",
              "symbol":"LOVEME",
              "decimals":18,
-             "logoURI":"https://coin.top/production/logo/usdj.png"
+             "logoURI":"https://coin.top/production/logo/just_icon.png"
         },
         {
             "chainId":1,
@@ -39,6 +47,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":6
+        "patch":7
     }
 }
