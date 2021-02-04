@@ -1,5 +1,5 @@
 {
-    "name":"testlyl",
+    "name":"testlyl1",
     "logoURI":"https://coin.top/production/logo/usdj.png",
     "timestamp":1610520955450,
     "tokens":[
@@ -39,6 +39,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":7
+        "patch":6
     }
 }
