@@ -1,16 +1,9 @@
 {
   "name":"token100Diff20",
   "logoURI":"https://coin.top/production/logo/usdj.png",
-  "timestamp":1610520957450,
+  "timestamp":1610520957950,
   "tokens":[
-    {
-            "chainId":1,
-            "address":"TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
-            "name":"USDJ",
-            "symbol":"USDJ",
-            "decimals":18,
-            "logoURI":"https://coin.top/production/logo/usdj.png"
-        },
+   
     {
       "chainId":1,
       "address":"TTzo9DoLCteeLAqtKNZJpcyD1oXUxFmrnF",
