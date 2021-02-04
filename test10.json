@@ -11,7 +11,14 @@
       "decimals":6,
       "logoURI":"https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
     },
-    
+    {
+      "chainId":1,
+      "address":"TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
+      "name":"Trlm",
+      "symbol":"TronixTestlm",
+      "decimals":6,
+      "logoURI":"https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
+    },
     {
       "chainId":1,
       "address":"TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
@@ -24,6 +31,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":5
+    "patch":6
   }
 }
