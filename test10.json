@@ -32,13 +32,13 @@
       "address":"TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
       "name":"USDJ",
       "symbol":"USDJ",
-      "decimals":18,
+      "decimals":16,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
   ],
   "version":{
     "major":1,
-    "minor":0,
+    "minor":1,
     "patch":9
   }
 }
