@@ -1,7 +1,7 @@
 {
-    "name":"testonline2ok",
+    "name":"testonline2ok1",
     "logoURI":"https://coin.top/production/logo/usdj.png",
-    "timestamp":1610520952450,
+    "timestamp":1610520952480,
     "tokens":[
         {
             "chainId":8,
@@ -23,6 +23,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":0
+        "patch":1
     }
 }
