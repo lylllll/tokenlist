@@ -1,0 +1,30 @@
+{
+    "name":"testlylonline",
+    "logoURI":"https://coin.top/production/logo/usdj.png",
+    "timestamp":1610520955450,
+    "tokens":[
+        
+        {
+            "chainId":1,
+            "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "name":"LTTC2",
+            "symbol":"LTTC2",
+            "decimals":18,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+             "chainId":5,
+             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+             "name":"A58",
+             "symbol":"A58",
+             "decimals":18,
+             "logoURI":"https://nile.tronscan.org/upload/logo/TJ6FDfCGXq8MKXDSefAkxcWm9jmbvDTT3k.png?t=1611331061692"
+        }
+   
+    ],
+    "version":{
+        "major":1,
+        "minor":0,
+        "patch":0
+    }
+}
