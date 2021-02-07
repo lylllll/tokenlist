@@ -101,9 +101,9 @@
         },
         {
             "chainId":1,
-            "address":"TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt",
+            "address":"TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
             "name":"WTRX",
-            "symbol":"WTRX6",
+            "symbol":"WTRX8",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },
@@ -111,7 +111,7 @@
             "chainId":1,
             "address":"TNY91updfQUD9p9bCSycLD1rFZUA6YqSbs",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX9",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },
@@ -119,7 +119,7 @@
             "chainId":1,
             "address":"TZDGsbkDuZQUjVmAMo934Yj8CHEzsQBAkA",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX10",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },
@@ -127,42 +127,42 @@
             "chainId":1,
             "address":"TH5sSxYEF8DzDGEUCrJaPJdZCUsfk7mTp4",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX1",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },{
             "chainId":1,
             "address":"TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX12",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },{
             "chainId":1,
             "address":"TNisVGhbxrJiEHyYUMPxRzgytUtGM7vssZ",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX13",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },{
             "chainId":1,
             "address":"TTUoJ8mXhyXxK1UdFnm5B5aLWKJa8NTkzj",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX14",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },{
             "chainId":1,
             "address":"TP8UsftU7bsVvvUUmF6MR9KhCYwCJzneLB",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTR15",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         },{
             "chainId":1,
             "address":"TFXX6gSzYFhy1wEbvZhS75G2g3JM1pgc8t",
             "name":"WTRX",
-            "symbol":"WTRX8",
+            "symbol":"WTRX16",
             "decimals":6,
             "logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png?t=1598430824415"
         }
@@ -170,6 +170,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":6
+        "patch":7
     }
 }
