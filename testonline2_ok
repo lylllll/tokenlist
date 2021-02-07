@@ -1,5 +1,5 @@
 {
-    "name":"testonlinenot2ok",
+    "name":"testonline2ok",
     "logoURI":"https://coin.top/production/logo/usdj.png",
     "timestamp":1610520952450,
     "tokens":[
@@ -23,6 +23,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":2
+        "patch":3
     }
 }
