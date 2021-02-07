@@ -1,7 +1,7 @@
 {
     "name":"testlylonline",
     "logoURI":"https://coin.top/production/logo/usdj.png",
-    "timestamp":1610520955450,
+    "timestamp":1610520966450,
     "tokens":[
         
         {
@@ -13,14 +13,6 @@
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
-             "chainId":5,
-             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
-             "name":"A58",
-             "symbol":"A58",
-             "decimals":18,
-             "logoURI":"https://nile.tronscan.org/upload/logo/TJ6FDfCGXq8MKXDSefAkxcWm9jmbvDTT3k.png?t=1611331061692"
-        },
-         {
              "chainId":5,
              "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
              "name":"A58",
