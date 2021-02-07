@@ -19,12 +19,20 @@
              "symbol":"A58",
              "decimals":18,
              "logoURI":"https://nile.tronscan.org/upload/logo/TJ6FDfCGXq8MKXDSefAkxcWm9jmbvDTT3k.png?t=1611331061692"
+        },
+         {
+             "chainId":5,
+             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+             "name":"A58",
+             "symbol":"A58",
+             "decimals":18,
+             "logoURI":"https://nile.tronscan.org/upload/logo/TJ6FDfCGXq8MKXDSefAkxcWm9jmbvDTT3k.png?t=1611331061692"
         }
    
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":0
+        "patch":1
     }
 }
